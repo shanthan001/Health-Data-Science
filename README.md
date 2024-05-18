@@ -1,3 +1,3 @@
-# Health-Data-Science
+# Advanced Topics in Health-Data-Science
 
-## Collection of tutorials and assignments of the course - Adanced research topics in Health Data Science
+* Collection of practicals, course material, assignments and project content of the course - Adanced research topics in Health Data Science
